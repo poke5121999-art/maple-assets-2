@@ -1,0 +1,1 @@
+{"id":8001000,"name":"쇼와조각상","spriteId":8001000,"activateByTouch":false,"states":[{"events":[{"type":100,"state":1,"item":[4000138,1],"lt":[-99,-10],"rb":[126,5]}],"anim":"0"},{"events":[],"anim":"1"}],"sheets":["8001000-0.png"],"anims":{"0":[{"s":0,"x":0,"y":0,"w":321,"h":67,"ox":160,"oy":33}],"1":[{"s":0,"x":322,"y":0,"w":321,"h":67,"ox":160,"oy":33}]},"action":"shouwaBoss"}

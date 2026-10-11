@@ -1,0 +1,1 @@
+{"id":3002000,"name":"물 웅덩이","spriteId":3002000,"activateByTouch":false,"states":[{"events":[{"type":100,"state":1,"item":[4001161,1],"lt":[-102,-51],"rb":[100,30]}],"anim":"0"},{"events":[],"anim":"1"}],"sheets":["3002000-0.png"],"anims":{"0":[{"s":0,"x":0,"y":0,"w":341,"h":100,"ox":170,"oy":50}],"1":[{"s":0,"x":342,"y":0,"w":341,"h":100,"ox":170,"oy":50}]},"action":"pFItem0"}

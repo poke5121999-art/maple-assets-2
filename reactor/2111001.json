@@ -1,0 +1,1 @@
+{"id":2111001,"name":"제단","spriteId":2111001,"activateByTouch":false,"states":[{"events":[{"type":100,"state":1,"item":[4001017,1],"lt":[-183,-30],"rb":[201,-12]}],"anim":"0"},{"events":[],"anim":"1"}],"sheets":["2111001-0.png"],"anims":{"0":[{"s":0,"x":0,"y":0,"w":452,"h":59,"ox":226,"oy":29}],"1":[{"s":0,"x":453,"y":0,"w":452,"h":59,"ox":226,"oy":29}]},"action":"boss"}

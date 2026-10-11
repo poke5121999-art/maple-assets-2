@@ -1,0 +1,1 @@
+{"id":2098001,"name":"표창제거","spriteId":2098001,"activateByTouch":false,"states":[{"events":[{"type":100,"state":1,"item":[4001074,1],"lt":[-81,-68],"rb":[175,-3]}],"anim":"0"},{"events":[],"anim":"1"}],"sheets":["2098001-0.png"],"anims":{"0":[{"s":0,"x":0,"y":0,"w":4,"h":4,"ox":0,"oy":0}],"1":[{"s":0,"x":5,"y":0,"w":4,"h":4,"ox":-1,"oy":32}]}}

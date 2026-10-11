@@ -1,0 +1,1 @@
+{"id":2092000,"name":"표창드롭","spriteId":2092000,"activateByTouch":false,"states":[{"events":[{"type":100,"state":1,"item":[4000417,1],"lt":[-209,-400],"rb":[175,-3]}],"anim":"0"},{"events":[],"anim":"1"}],"sheets":["2092000-0.png"],"anims":{"0":[{"s":0,"x":0,"y":0,"w":4,"h":4,"ox":-1,"oy":32}],"1":[{"s":0,"x":5,"y":0,"w":4,"h":4,"ox":-1,"oy":32}]},"action":"snowdrop"}

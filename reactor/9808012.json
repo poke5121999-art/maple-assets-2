@@ -1,0 +1,1 @@
+{"id":9808012,"name":"장애물맵 확인버튼","spriteId":9808012,"activateByTouch":false,"states":[{"events":[{"type":0,"state":1}],"anim":"0"},{"events":[],"anim":"1"}],"sheets":["9808012-0.png"],"anims":{"0":[{"s":0,"x":57,"y":0,"w":53,"h":115,"ox":26,"oy":57}],"1":[{"s":0,"x":0,"y":0,"w":56,"h":115,"ox":29,"oy":57}]}}
